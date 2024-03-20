@@ -2,11 +2,28 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: abs-11
+  title: abs-11
+  description: Component for abs-11
+  annotations:
+    github.com/project-slug: abs-11
+  tags: 
+    - nodejs
 spec:
-  owner: dhr
+  type: service
+  owner: unknown
+  lifecycle: experimental
 ---
 apiVersion: backstage.io/v1alpha1
-kind: Location
+kind: Component
 metadata:
-  name: abs-11
-owner: dhr
+  name: abs-12
+  title: abs-12
+  description: Component for abs-12
+  annotations:
+    github.com/project-slug: abs-12
+  tags: 
+    - nodejs
+spec:
+  type: service
+  owner: unknown
+  lifecycle: experimental
