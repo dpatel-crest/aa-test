@@ -3,10 +3,10 @@ kind: Component
 metadata:
   name: abs-1
 spec:
-  owenr: dhr
+  owner: dhr
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: abs-1
-owenr: dhr
+owner: dhr
