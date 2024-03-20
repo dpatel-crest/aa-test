@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: abs-1
+  name: abs-11
 spec:
   owner: dhr
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: abs-1
+  name: abs-11
 owner: dhr
